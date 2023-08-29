@@ -12,3 +12,8 @@ Para realizar essa atividade, será necessário ter instalado o MySQL ou MariaDB
 Você deverá organizar todas as consultas SQL utilizadas para inserir os dados no banco de dados em arquivo .txt para ser enviado. Lembre-se de padronizar a sintaxe das consultas, assim como apresentado na unidade 2. Neste exercício, será utilizado os comandos insert MYSQL (2020).
 
 É importante utilizar as chaves primárias e estrangeiras das tabelas corretamente. Após terminar, compartilhe suas consultas em formato de texto, conforme solicitado no fórum da seção “Compartilhe” .
+
+
+## Banco de dados
+
+Adicionei um Backup do banco de dados deste projeto na pas db. 
